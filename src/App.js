@@ -7,7 +7,7 @@ import Movies from './COMPONENTS/Movies';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar />
       <Moviedetails />
       <Search />
